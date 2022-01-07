@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <excludeFromCompile>
-      <file url="file://$PROJECT_DIR$/src/Assignments/JAssignment9/Regex.java" />
+      <file url="file://$PROJECT_DIR$/src/Assignments/Assignment9/Regex.java" />
     </excludeFromCompile>
   </component>
 </project>

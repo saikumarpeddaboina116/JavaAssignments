@@ -1,4 +1,4 @@
-package Assignments.JAssignment9;
+package Assignments.Assignment9;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;
@@ -10,7 +10,7 @@ public class Regex {
 
         String input = scan.nextLine();
         String pattern;
-        pattern = "^[A-Z].*(\.)$";
+        pattern = "^[A-Z].*(.)$";
         if (Pattern.matches(pattern,input))
 
             System.out.println("The given sentence starts with capital letter and end with period");
